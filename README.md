@@ -56,7 +56,7 @@
 
 <!-----Social Accounts------>
 
-<h3 align="center">Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
+<!-- <h3 align="center">Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/dakshina-patabandi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="dakshina patabandi" width="50" height="50" /></a>
 <a href="https://www.facebook.com/dakshina.patabandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dakshina patabandi" width="50" height="50" /></a>
@@ -65,7 +65,30 @@
 <a href="https://medium.com/@kpdakshina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kpdakshina" width="50" height="50" /></a>
 <a href="https://www.youtube.com/c/DakshinaPatabandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dakshina patabandi" width="50" height="50" /></a>
 <a href="https://www.hackerrank.com/@kpdakshina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kpdakshina" width="50" height="50" /></a>
+</p> -->
+
+<h3 align="center">
+  Connect with me 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dakshina-patabandi/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="dakshina patabandi" width="50" height="50" /></a>
+  <a href="https://www.facebook.com/dakshina.patabandi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dakshina patabandi" width="50" height="50" /></a>
+  <a href="https://www.instagram.com/dakshina_k.p" target="blank">
+    <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="dakshina_k.p" width="50" height="50" /></a>
+  <a href="https://dribbble.com/DakshinaPatabandi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dakshinapatabandi" width="50" height="50" /></a>
+  <a href="https://medium.com/@kpdakshina" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kpdakshina" width="50" height="50" /></a>
+  <a href="https://www.youtube.com/c/DakshinaPatabandi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dakshina patabandi" width="50" height="50" /></a>
+  <a href="https://www.hackerrank.com/@kpdakshina" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kpdakshina" width="50" height="50" /></a>
 </p>
+
 
 ---
 
