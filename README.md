@@ -56,7 +56,7 @@
 
 <h3 align="center">Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
 <p align="center">
-<a href="https://linkedin.com/in/dakshina patabandi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="dakshina patabandi" width="50" height="50" /></a>
+<a href="www.linkedin.com/in/dakshina-patabandi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="dakshina patabandi" width="50" height="50" /></a>
 <a href="https://fb.com/dakshina patabandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dakshina patabandi" width="50" height="50" /></a>
 <a href="https://instagram.com/dakshina_k.p" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="dakshina_k.p"width="50" height="50" /></a>
 <a href="https://dribbble.com/dakshinapatabandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dakshinapatabandi"width="50" height="50" /></a>
