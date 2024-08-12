@@ -126,6 +126,7 @@
 ---
 
 <!--snake-->
+
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg">
@@ -135,4 +136,5 @@
 </div>
 
 <!--Below image-->
+
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
